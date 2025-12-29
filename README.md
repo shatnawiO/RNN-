@@ -1,2 +1,1 @@
-# RNN-
-Recurrent Neural Network (RNN) implemented from scratch using only NumPy
+This repository contains an implementation of a Recurrent Neural Network (RNN) built entirely from scratch using Python and NumPy—no deep learning libraries used. The RNN is capable of sequence prediction and demonstrates fundamental concepts like forward propagation, backpropagation through time (BPTT), and gradient updates. This project is a great resource for understanding the inner workings of RNNs and building a strong foundation in deep learning fundamentals.
